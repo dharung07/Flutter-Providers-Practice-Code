@@ -1,3 +1,3 @@
-# provider_practicse
+# provider_practice
 
-A new Flutter project.
+I had just practiced 'Providers' concept in Flutter framework.
